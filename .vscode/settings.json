@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/61867aa6-fb5d-43d3-bd0c-56ebd30af51b/resourceGroups/showcase_react18_basic_routing/providers/Microsoft.Web/sites/ytnodejsreservations",
+    "appService.deploySubpath": "."
+}
